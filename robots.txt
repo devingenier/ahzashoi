@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caikielaew.traversable.space/sitemap.xml
